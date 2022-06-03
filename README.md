@@ -56,6 +56,10 @@ aka Jasmeet Singh.I am a College Student currently studying Computer Science 3rd
   <a href="https://discord.com/channels/@me">
     <img width="5%" src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png">
   </a>
+ <a href="https://mail.google.com/mail/u/1/#inbox">
+    <img width="5%" src="https://cdn-icons-png.flaticon.com/512/281/281769.png">
+    <p>jasm7314@gmail.com</p>
+  </a>
   
 </div>
 
