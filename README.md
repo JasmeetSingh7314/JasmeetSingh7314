@@ -20,7 +20,7 @@ aka Jasmeet Singh.I am a College Student currently studying Computer Science 3rd
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact)](https://github.com/FirstKenpachi/github-readme-stats) -->
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirstKenpachi&show_icons=true&theme=dark)](https://github.com/FirstKenpachi/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FirstKenpachi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
 <div>
@@ -68,6 +68,6 @@ aka Jasmeet Singh.I am a College Student currently studying Computer Science 3rd
 
 
 ## Sneak-Peak:
-[![FirstKenpachi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirstKenpachi)](https://github.com/FirstKenpachi/github-readme-stats)
+[![FirstKenpachi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirstKenpachi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=FirstKenpachi)
