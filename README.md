@@ -68,6 +68,6 @@ aka Jasmeet Singh.I am a College Student currently studying Computer Science 3rd
 
 
 ## Sneak-Peak:
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirstKenpachi)](https://github.com/FirstKenpachi/github-readme-stats)
+[![FirstKenpachi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirstKenpachi)](https://github.com/FirstKenpachi/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=FirstKenpachi)
