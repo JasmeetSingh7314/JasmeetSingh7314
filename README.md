@@ -1,4 +1,4 @@
-# **👋Hi, I’m @FirstKenpachi**
+# **👋Hi, I’m @Jasmeet Singh**
 aka Jasmeet Singh.I am a College Student currently studying Computer Science 3rd year at Guru Tegh Bahadur Institute of Technology,New Delhi..I love sports and esports and have a special love for nature and wildlife!.<br>
 📸 I am also an **amateur photographer** ..I love clicking wildlife🦩 you can come aand checkout my work at jasmeet_1712_ on insta ;)
 <br>
