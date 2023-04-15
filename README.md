@@ -19,7 +19,7 @@ aka Jasmeet Singh.I am a College Student currently studying Computer Science 3rd
 - 💞️ I’m looking to collaborate on projects that require my skillset.
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=dark&layout=compact" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact)](https://github.com/FirstKenpachi/github-readme-stats) -->
-<br>
+
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmeetSingh7314&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools:
