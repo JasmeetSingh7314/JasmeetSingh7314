@@ -2,10 +2,7 @@
 I am a College Student currently studying Computer Science 4th year, Guru Tegh Bahadur Institute of Technology,New Delhi.<br>
 
 I **love** practicing web development and strive for continuous improvement in my works. Currently I am working on improving **“Owl”** a website made for selling and purchasing games via the Blockchain. An initial version of the project won an international Hackathon in which amongst 12000 participants our team stood out on top. 
-
 I love the idea of **Blockchain** and the idea of it especially intrigues me!
-
-I am also an **amateur photographer** 📸 ..I love clicking wildlife🦩 you can come aand checkout my work at jasmeet_1712_ on insta ;)
 <br>
 
 
@@ -22,6 +19,8 @@ I am also an **amateur photographer** 📸 ..I love clicking wildlife🦩 you ca
 - 🌱 I’m currently learning web development and have experiance in coding Java and Javascript..My love for creating websites is as much as for creating equally well running backend apps!💥
 
 - 💞️ I’m looking to collaborate on projects that require my skillset.
+
+- 
   
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=dark&layout=compact" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact)](https://github.com/FirstKenpachi/github-readme-stats) -->
@@ -81,6 +80,8 @@ I am also an **amateur photographer** 📸 ..I love clicking wildlife🦩 you ca
   </a>
   
 </div>
+
+**PS:** I am also an **amateur photographer** 📸 ..I love clicking wildlife🦩 you can come aand checkout my work at jasmeet_1712_ on insta ;)
 
 
 
