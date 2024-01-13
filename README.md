@@ -1,26 +1,33 @@
 # **👋Hi, I’m @Jasmeet Singh**
-I am a College Student currently studying Computer Science 3rd year at Guru Tegh Bahadur Institute of Technology,New Delhi..I love sports and esports and have a special love for nature and wildlife!.<br>
-📸 I am also an **amateur photographer** ..I love clicking wildlife🦩 you can come aand checkout my work at jasmeet_1712_ on insta ;)
+I am a College Student currently studying Computer Science 4th year, Guru Tegh Bahadur Institute of Technology,New Delhi.<br>
+
+I **love** practicing web development and strive for continuous improvement in my works. Currently I am working on improving **“Owl”** a website made for selling and purchasing games via the Blockchain. An initial version of the project won an international Hackathon in which amongst 12000 participants our team stood out on top. 
+
+I love the idea of **Blockchain** and the idea of it especially intrigues me!
+
+I am also an **amateur photographer** 📸 ..I love clicking wildlife🦩 you can come aand checkout my work at jasmeet_1712_ on insta ;)
 <br>
 
 
 <!-- <img width="100%" src="https://c.tenor.com/9r44zo5eg0kAAAAC/animals-birds.gif"> -->
 <img width="100%" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
 
-
-- 👀 I’m interested in coding and learning new stuff.I have the knack for Web Development and love building new Designs and Apps! 🙌
-
-
-- 💹 I'm always looking to improve and would be glad to participate in anything that will come my way!
-
+### What defines me?
+- A **dedicated** individual.. once I set a mind on a problem I don’t rest until I get it done.
+  
+-	👀 I **love** to solve problems through code and I'm always looking to improve and would be glad to participate in anything that will come my way!.
+  
+-	💹 I love innovation and love to analyse each and every concept through a scientific viewpoint.
 
 - 🌱 I’m currently learning web development and have experiance in coding Java and Javascript..My love for creating websites is as much as for creating equally well running backend apps!💥
 
 - 💞️ I’m looking to collaborate on projects that require my skillset.
+  
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=dark&layout=compact" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact)](https://github.com/FirstKenpachi/github-readme-stats) -->
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmeetSingh7314&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmeetSingh7314&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+
 
 ## Languages and Tools:
 <div>
@@ -70,4 +77,4 @@ I am a College Student currently studying Computer Science 3rd year at Guru Tegh
 ## Sneak-Peak:
 [![FirstKenpachi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirstKenpachi)](https://github.com/anuraghazra/github-readme-stats)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=FirstKenpachi)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=JasmeetSingh7314)
