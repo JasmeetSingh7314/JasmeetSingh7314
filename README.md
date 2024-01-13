@@ -23,10 +23,10 @@ I **love** practicing web development and strive for continuous improvement in m
 
 
   
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=dark&layout=compact" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=dark&layout=compact" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact)](https://github.com/FirstKenpachi/github-readme-stats) -->
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmeetSingh7314&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmeetSingh7314&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
 
 
 ## Languages and Tools:
