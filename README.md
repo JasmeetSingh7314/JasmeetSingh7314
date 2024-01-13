@@ -1,8 +1,9 @@
 # **👋Hi, I’m @Jasmeet Singh**
 I am a College Student currently studying Computer Science 4th year, Guru Tegh Bahadur Institute of Technology,New Delhi.<br>
 
-I **love** practicing web development and strive for continuous improvement in my works. Currently I am working on improving **“Owl”** a website made for selling and purchasing games via the Blockchain. An initial version of the project won an international Hackathon in which amongst 12000 participants our team stood out on top. 
-I love the idea of **Blockchain** and the idea of it especially intrigues me!
+I **love** practicing web development and strive for continuous improvement in my works.<br>
+👨‍💻 Currently working on improving **“Owl”** a website made for selling and purchasing games via the Blockchain. An initial version of the project won an international Hackathon in which amongst 12000 participants our team stood out on top. <br>
+📈 I love the idea of **Blockchain** and the idea of it especially intrigues me!
 <br>
 
 
@@ -20,7 +21,7 @@ I love the idea of **Blockchain** and the idea of it especially intrigues me!
 
 - 💞️ I’m looking to collaborate on projects that require my skillset.
 
-- 
+
   
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=dark&layout=compact" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact)](https://github.com/FirstKenpachi/github-readme-stats) -->
