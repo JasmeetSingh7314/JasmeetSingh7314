@@ -23,10 +23,10 @@ I **love** practicing web development and strive for continuous improvement in m
 
 
   
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=dark&layout=compact" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=github_dark&layout=compact" />
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact)](https://github.com/FirstKenpachi/github-readme-stats) -->
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmeetSingh7314&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmeetSingh7314&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
 
 
 ## Languages and Tools:
@@ -84,11 +84,9 @@ I **love** practicing web development and strive for continuous improvement in m
 
 **PS:** I am also an **amateur photographer** 📸 ..I love clicking wildlife🦩 you can come aand checkout my work at jasmeet_1712_ on insta ;)
 
+## Top Repositories:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasmeetSingh7314&repo=AD-Management-System&theme=github_dark)](https://github.com/JasmeetSingh7314/AD-Management-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasmeetSingh7314&repo=Owl&theme=github_dark)](https://github.com/JasmeetSingh7314/Owl)
 
-
-
-
-## Sneak-Peak:
-[![FirstKenpachi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FirstKenpachi)](https://github.com/anuraghazra/github-readme-stats)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JasmeetSingh7314)
