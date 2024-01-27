@@ -1,14 +1,6 @@
 # **👋Hi, I’m @Jasmeet Singh**
 I am a College Student currently studying Computer Science 4th year, Guru Tegh Bahadur Institute of Technology,New Delhi.<br>
 
-I **love** practicing web development and strive for continuous improvement in my works.<br>
-👨‍💻 Currently working on improving **“Owl”** a website made for selling and purchasing games via the Blockchain. An initial version of the project won an international Hackathon in which amongst 12000 participants our team stood out on top. <br>
-📈 I love the idea of **Blockchain** and the idea of it especially intrigues me!
-<br>
-
-
-<!-- <img width="100%" src="https://c.tenor.com/9r44zo5eg0kAAAAC/animals-birds.gif"> -->
-<img width="100%" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
 
 ### What defines me?
 - A **dedicated** individual.. once I set a mind on a problem I don’t rest until I get it done.
@@ -20,6 +12,18 @@ I **love** practicing web development and strive for continuous improvement in m
 - 🌱 I’m currently learning web development and have experiance in coding Java and Javascript..My love for creating websites is as much as for creating equally well running backend apps!💥
 
 - 💞️ I’m looking to collaborate on projects that require my skillset.
+
+
+
+<!-- <img width="100%" src="https://c.tenor.com/9r44zo5eg0kAAAAC/animals-birds.gif"> -->
+<img width="100%" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
+
+💝I **love** practicing web development and strive for continuous improvement in my works.<br>
+
+👨‍💻 Currently working on improving **“Owl”** a website made for selling and purchasing games via the Blockchain. An initial version of the project won an international Hackathon in which amongst 12000 participants our team stood out on top. <br>
+
+📈 I love the idea of **Blockchain** and the idea of it especially intrigues me!
+<br>
 
 
   
