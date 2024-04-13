@@ -92,9 +92,6 @@ I am a College Student currently studying Computer Science 4th year, Guru Tegh B
 
 **PS:** I am also an **amateur photographer** 📸 ..I love clicking wildlife🦩 you can come aand checkout my work at jasmeet_1712_ on insta ;)
 
-## Top Repositories:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasmeetSingh7314&repo=AD-Management-System&theme=github_dark)](https://github.com/JasmeetSingh7314/AD-Management-System)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasmeetSingh7314&repo=Owl&theme=github_dark)](https://github.com/JasmeetSingh7314/Owl)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JasmeetSingh7314)
