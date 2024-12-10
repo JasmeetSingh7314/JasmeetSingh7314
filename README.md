@@ -12,13 +12,16 @@ I'm currently working on "Owl," a groundbreaking website for buying and selling 
 <!--<img width="100%" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif"> -->
 
   
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=github_dark&layout=compact" /> <br>
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact)](https://github.com/FirstKenpachi/github-readme-stats) -->
 
 
 
 ## Languages and Tools:
 
+
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=github_dark&layout=compact" /> <br><br>
 ### Curently Upskilling:
 <div style="display:flex">
  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Nextjs" alt="Nextjs" width="40" height="40" style="background-color:white"/>&nbsp;
@@ -27,6 +30,8 @@ I'm currently working on "Owl," a groundbreaking website for buying and selling 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   
 </div>
+
+
 
 
 ### Experienced In:
