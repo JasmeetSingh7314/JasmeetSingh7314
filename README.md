@@ -1,36 +1,20 @@
 # **👋Hi, I’m @Jasmeet Singh**
-I am a College Student currently studying Computer Science 4th year, Guru Tegh Bahadur Institute of Technology,New Delhi.<br>
+Fancy meeting you here!
 
+A passionate web developer fascinated by blockchain technology.
 
-### What defines me?
-- A **dedicated** individual.. once I set a mind on a problem I don’t rest until I get it done.
-  
--	👀 I **love** to solve problems through code and I'm always looking to improve and would be glad to participate in anything that will come my way!.
-  
--	💹 I love innovation and love to analyse each and every concept through a scientific viewpoint.
-
-- 🌱 I’m currently learning web development and have experiance in coding Java and Javascript..My love for creating websites is as much as for creating equally well running backend apps!💥
-
-- 💞️ I’m looking to collaborate on projects that require my skillset.
-
-
-
-<!-- <img width="100%" src="https://c.tenor.com/9r44zo5eg0kAAAAC/animals-birds.gif"> -->
-<img width="100%" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
-
-💝I **love** practicing web development and strive for continuous improvement in my works.<br>
-
-👨‍💻 Currently working on improving **“Owl”** a website made for selling and purchasing games via the Blockchain. An initial version of the project won an international Hackathon in which amongst 12000 participants our team stood out on top. <br>
-
-📈 I love the idea of **Blockchain** and the idea of it especially intrigues me!
+I'm currently working on "Owl," a groundbreaking website for buying and selling games through blockchain, which notably claimed top honors among 12,000 participants in an international hackathon. The project combines my love for web development and blockchain's transformative potential, showcasing how innovative technology can revolutionize digital marketplaces.
+<br>
 <br>
 
 
+<!-- <img width="100%" src="https://c.tenor.com/9r44zo5eg0kAAAAC/animals-birds.gif"> -->
+<!--<img width="100%" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif"> -->
+
   
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=github_dark&layout=compact" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=github_dark&layout=compact" /> <br>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact)](https://github.com/FirstKenpachi/github-readme-stats) -->
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasmeetSingh7314&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)<br><br><br>
 
 
 ## Languages and Tools:
