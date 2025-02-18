@@ -102,8 +102,5 @@ I’m a **passionate web developer** with a deep fascination for **AI** and **bl
 </div>-->
 
 
-**PS:** I am also an **amateur photographer** 📸 ..I love clicking wildlife🦩 you can come aand checkout my work at jasmeet_1712_ on insta ;)
-
-
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=JasmeetSingh7314)
