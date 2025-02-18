@@ -1,7 +1,7 @@
 # **👋Hi, I’m @Jasmeet Singh**
 Fancy meeting you here!
 
-A passionate web developer fascinated by blockchain technology.
+I am a passionate web developer fascinated by AI and blockchain.
 
 I'm currently working on "Owl," a groundbreaking website for buying and selling games through blockchain, which notably claimed top honors among 12,000 participants in an international hackathon. The project combines my love for web development and blockchain's transformative potential, showcasing how innovative technology can revolutionize digital marketplaces.
 <br>
@@ -24,7 +24,7 @@ I'm currently working on "Owl," a groundbreaking website for buying and selling 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=github_dark&layout=compact" /> <br><br>
 ### Curently Upskilling:
 <div style="display:flex">
- <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="Nextjs" alt="Nextjs" width="40" height="40" style="background-color:white"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="40" height="40" style="background-color:white"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-plain.svg" title=Solidity alt="Solidity" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
