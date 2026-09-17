@@ -18,15 +18,7 @@ I’m a **passionate web developer** with a deep fascination for **AI** and **bl
 - ✨ Driven by passion and the grit to achieve the Impossible. <br/>
 - ⛩️ Like a ronin serving no lord, sharpening my blade everyday 🍃 
 <br>
-<br>
 
-
-<!-- <img width="100%" src="https://c.tenor.com/9r44zo5eg0kAAAAC/animals-birds.gif"> -->
-<!--<img width="100%" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif"> -->
-
-  
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FirstKenpachi&theme=dark&layout=compact)](https://github.com/FirstKenpachi/github-readme-stats) -->
 
 
 ## 🛠️ Languages and Tools:
@@ -50,7 +42,6 @@ I’m a **passionate web developer** with a deep fascination for **AI** and **bl
 ![Zustand](https://img.shields.io/badge/Zustand-FF6F61?style=for-the-badge&logo=zustand&logoColor=white) <!-- Coral for Zustand -->
 <br><br>
 
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JasmeetSingh7314&theme=github_dark&layout=compact" /> 
 
  
 ## 🌐 Socials
